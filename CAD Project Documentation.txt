@@ -1,0 +1,65 @@
+Project 1: BookMyShow – Internal Ticket Booking & Theater Management System
+Type: B2B
+
+Target Users: Theater Owners & Internal Staff
+
+Duration: 2–3 Weeks
+
+Team Size: 1
+
+Budget: Rs. 0
+
+Overview
+BookMyShow is an internal theater management system developed to handle ticket bookings, show scheduling, and staff operations within theater chains. The focus was on building a system that is easy to use, highly configurable, and capable of supporting real-time updates across multiple screens and branches.
+
+Key Features
+Admin & Staff Authentication – Secure login with different access levels based on roles.
+
+Branch and Screen Management – Set up multiple branches, each with custom screen configurations.
+
+Seat Layout Customization – Design seat maps with categories like Premium, Standard, etc.
+
+Movie Scheduling – Add and schedule movies for different screens and time slots.
+
+Ticket Booking (Internal Use) – Book tickets through the counter system with real-time seat updates.
+
+Ticket Generation – Print or download tickets with booking details.
+
+Show Controls – Cancel or reschedule shows as needed, with real-time updates reflected system-wide.
+
+Sales Reports – Track daily and monthly earnings, export data in PDF or CSV formats.
+
+Notifications – Automated alerts for staff about upcoming shows, changes, or cancellations.
+
+Project 2: TaskForge – Task and Workflow Management Tool
+Type: B2B
+
+Target Users: Teams, Managers, Project Leads
+
+Duration: 2–3 Weeks
+
+Team Size: 1
+
+Budget: Rs. 0
+
+Overview
+TaskForge was created to help small teams and organizations manage their tasks and workflows more effectively. The system focuses on clarity, collaboration, and visibility, offering everything from simple task lists to shared boards for project tracking.
+
+Key Features
+Login and Role Management – Distinct access for admins and users, with permission-based actions.
+
+Task Assignment – Create tasks with due dates, priorities, and assignees.
+
+Organized Boards – Use Kanban boards and folders to group tasks by status or department.
+
+Collaboration Tools – Leave comments, mention teammates, and receive real-time updates.
+
+Attachments – Upload relevant files to tasks for easier access and documentation.
+
+Progress Indicators – Track task status visually through stages like To-Do, In Progress, Done.
+
+Filtering & Search – Find tasks quickly using filters based on tags, assignees, or content.
+
+Export Options – Export tasks and activity reports for meetings or documentation.
+
+Notifications – Stay updated on task changes, approaching deadlines, and team activity.
